@@ -5,3 +5,11 @@ O projeto visa implementar um UML de um aparelho que possua as seguintes funçõ
 - 🎶 Reprodutor Musical
 - 📞 Aparelho Telefônico
 - 🌐 Navegador na Internet
+
+<html>
+	<body>
+		<div style="text-align: center;">
+			<img src="./UML/UML.png" alt="modelo UML"/>
+		</div>
+	</body>
+</html>
