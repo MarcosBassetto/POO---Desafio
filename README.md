@@ -6,4 +6,13 @@ O projeto visa implementar um UML de um aparelho que possua as seguintes funçõ
 - 📞 Aparelho Telefônico
 - 🌐 Navegador na Internet
 
-<iframe src="UML/IphoneUml.drawio.html" width="100%" height="500px"></iframe>
+
+<div id="content"></div>
+<script>
+  fetch('UML/IphoneUml.drawio.html')
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById('content').innerHTML = data;
+    });
+</script>
+
