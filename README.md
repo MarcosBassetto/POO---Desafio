@@ -6,10 +6,12 @@ O projeto visa implementar um UML de um aparelho que possua as seguintes funçõ
 - 📞 Aparelho Telefônico
 - 🌐 Navegador na Internet
 
+
 <html>
 	<body>
 		<div style="text-align: center; ">
-			<img src="./UML/UML.png" alt="modelo UML" height="250vh" width="500vw/>
-		</div>
+			<img src="./UML/UML.png"" alt="modelo UML" height="250vh" width="500vw"/>		
+      </div>
 	</body>
 </html>
+
