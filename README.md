@@ -8,8 +8,8 @@ O projeto visa implementar um UML de um aparelho que possua as seguintes funçõ
 
 <html>
 	<body>
-		<div style="text-align: center;">
-			<img src="./UML/UML.png" alt="modelo UML"/>
+		<div style="text-align: center; ">
+			<img src="./UML/UML.png" alt="modelo UML" height="250vh" width="500vw/>
 		</div>
 	</body>
 </html>
